@@ -1,5 +1,5 @@
 		<footer>
-			<p><?php echo date("Y"); ?>@copyrights Deepak</p>
+			<p><?php echo date("Y"); ?> @ Copyrights Deepak</p>
 		</footer>
 	</div>
 </body>

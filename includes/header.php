@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-    <title>Deepak Restaurant</title>
+    <title>Bayside Restaurant</title>
     <meta charset="utf-8" />
     <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -12,8 +12,7 @@
 		<h2>Bayside Restaurant</h2>
 	</div>
 	<div id="wrapper">
-		<header id="topheader">
-			
+		<header id="topheader">			
 		</header>
 		<nav id="navbar">
 			<ul>

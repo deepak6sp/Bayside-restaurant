@@ -1,3 +1,5 @@
+<div id="line">
+</div>
 <main id="content">
 	<div id="left">
 		<strong>Phone Contact</strong><br></br><hr>
