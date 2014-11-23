@@ -109,3 +109,17 @@ footer{
 	position: relative;
 	bottom: 0;
 }
+
+#teamAlign{
+	margin: 5% 0 0 12%;	
+	float: left;
+	width: 150px;
+}
+
+#teamAlign img{
+	border-radius: 5px;
+}
+
+.menuAlign{
+	margin-left: 100px;
+}
