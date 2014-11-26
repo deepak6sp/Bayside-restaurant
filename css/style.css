@@ -132,25 +132,39 @@ form{
 form input{
 	width: 400px;
 	height: 50px;
-	margin-bottom: 20px;
+	
 }
 
 #name{
 	margin-left: 30px;
+	margin-bottom: 20px;
 }
 
 #email{
   	margin-left: 28px;
+  	margin-bottom: 20px;
 }
 
 #message{
 	height: 300px;
 	width: 400px;
 	margin-left: 30px;
+	margin-bottom: 20px;
+}
+
+#subscrib{
+	width:20px;
+	height: 20px;
+	float: left;
+	margin-left:80px;
+}
+
+#subscribe label{
+	margin-left: -100px;
 }
 
 #submit{
 	width:150px;
 	border-radius: 5px;
-
+	margin: 5% 0;
 }
